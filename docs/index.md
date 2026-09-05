@@ -63,6 +63,6 @@ Have questions, feedback, or need help with your account? We'd love to hear from
 
 ---
 
-<p align="center">
-  <a href="policy.md">Privacy Policy</a> • <a href="terms.md">Terms of Use</a>
+<p align="center" markdown="span">
+  [Privacy Policy](policy.md) • [Terms of Use](terms.md)
 </p>

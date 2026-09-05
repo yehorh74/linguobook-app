@@ -14,3 +14,6 @@ nav:
   - Main page: index.md
   - Privacy policy: policy.md
   - Terms of use: terms.md
+
+markdown_extensions:
+  - md_in_html

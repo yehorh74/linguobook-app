@@ -63,7 +63,7 @@ Have questions, feedback, or need help with your account? We'd love to hear from
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [Privacy Policy](policy.md) • [Terms of Use](terms.md)
 

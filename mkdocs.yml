@@ -1,0 +1,16 @@
+site_name: LinguoBook
+site_description: Intelligent book reader with word translate feature
+site_author: Yehor Horin
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+
+nav:
+  - Main page: index.md
+  - Privacy policy: privacy.md
+  - Terms of use: terms.md

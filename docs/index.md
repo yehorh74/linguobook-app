@@ -63,6 +63,8 @@ Have questions, feedback, or need help with your account? We'd love to hear from
 
 ---
 
-<p align="center" markdown="span">
-  [Privacy Policy](policy.md) • [Terms of Use](terms.md)
-</p>
+<div align="center">
+
+[Privacy Policy](policy.md) • [Terms of Use](terms.md)
+
+</div>

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps"><img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play" alt="Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=org.daned.linguobook"><img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play" alt="Google Play" /></a>
 </p>
 
 ---
@@ -64,5 +64,5 @@ Have questions, feedback, or need help with your account? We'd love to hear from
 ---
 
 <p align="center">
-  <a href="privacy.md">Privacy Policy</a> • <a href="terms.md">Terms of Use</a>
+  <a href="policy.md">Privacy Policy</a> • <a href="terms.md">Terms of Use</a>
 </p>

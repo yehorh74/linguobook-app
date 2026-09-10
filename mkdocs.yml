@@ -4,6 +4,8 @@ site_author: Yehor Horin
 
 theme:
   name: material
+  favicon: assets/LinguoBook_icon.png   
+  logo: assets/LinguoBook_icon.png
   font:
     text: Merriweather
     code: Fira Code

@@ -4,16 +4,24 @@ site_author: Yehor Horin
 
 theme:
   name: material
+  font:
+    text: Merriweather
+    code: Fira Code
   palette:
-    primary: indigo
-    accent: blue
+    primary: custom
+    accent: custom
   features:
     - navigation.tabs
+    - navigation.top
+
+extra_css:
+  - stylesheets/book_theme.css
 
 nav:
   - Main page: index.md
   - Privacy policy: policy.md
   - Terms of use: terms.md
+  - Support: support.md
 
 markdown_extensions:
   - md_in_html

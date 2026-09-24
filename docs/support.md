@@ -68,6 +68,6 @@ The app automatically tracks your progress and monitors:
 
 If you have technical questions, subscription issues, or or want to report a bug, contact us directly:
 
-* 🐛 **Bug Report & Support Form:** [Open Support Form](bug-report.md)
+* 🐛 **Bug Report & Support Form:** [Open Support Form](bug_report.md)
 * 📧 **Support Email:** [support@linguobook.app](mailto:support@linguobook.app)
 * 💬 We respond to messages within 24 hours.

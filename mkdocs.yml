@@ -24,6 +24,7 @@ nav:
   - Privacy policy: policy.md
   - Terms of use: terms.md
   - Support: support.md
+  - Report a Bug: bug_report.md
 
 markdown_extensions:
   - md_in_html
